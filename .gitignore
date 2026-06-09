@@ -21,3 +21,5 @@ tmp/
 # IDE files
 .vscode/
 .idea/
+
+ai_interview/
