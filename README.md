@@ -33,7 +33,7 @@ ai-interview-simulator/
 └── README.md
 ⚙️ Installation & Setup
 1️⃣ Clone the repository
-git clone https://github.com/your-username/ai-interview-simulator.git
+git clone https://github.com/Sudeepthi0604/ai-interview-simulator.git
 cd ai-interview-simulator
 2️⃣ Create virtual environment
 python -m venv venv
@@ -70,6 +70,7 @@ Feedback: Improve explanation clarity & add real-time examples
 📈 Advanced analytics dashboard
 🧑‍💼 HR-style adaptive questioning
 🌍 Multi-language support
+
 👨‍💻 Author
 
 Sudeepthi Barla
