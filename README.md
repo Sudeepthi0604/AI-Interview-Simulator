@@ -48,7 +48,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 4️⃣ Add API Key
 
-Create .env file:
+Create secrets.toml file:
 
 GOOGLE_API_KEY=your_api_key_here
 5️⃣ Run the app
