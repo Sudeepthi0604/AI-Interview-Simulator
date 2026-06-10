@@ -81,5 +81,5 @@ Practice concise answers
 📊 Advanced analytics dashboard
 🧑‍💼 HR-style adaptive questioning system
 
-👨‍💻 Author
+👨‍💻 Author:
 Sudeepthi Barla
