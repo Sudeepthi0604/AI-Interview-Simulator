@@ -14,6 +14,7 @@ This project simulates real interview environments by generating role-based ques
 📈 Performance score & feedback report
 📄 Resume-based question customization
 ⚡ Fast and interactive UI
+
 🛠️ Tech Stack
 Python
 Streamlit / Flask
@@ -21,6 +22,7 @@ Google Generative AI (Gemini) / OpenAI API
 FAISS (for resume-based retrieval)
 SQLite (database)
 HTML/CSS (UI enhancements)
+
 📁 Project Structure
 ai-interview-simulator/
 │
@@ -36,6 +38,7 @@ ai-interview-simulator/
 │
 ├── templates/              # UI templates (if Flask)
 └── README.md
+
 ⚙️ Setup Instructions
 1. Clone the repository
 git clone https://github.com/Sudeepthi0604/ai-interview-simulator.git
@@ -52,6 +55,7 @@ Create a secret.toml file:
 GOOGLE_API_KEY=your_api_key_here
 5. Run the application
 streamlit run app.py
+
 🧠 Working Flow
 User selects job role & experience level
 AI generates personalized interview questions
@@ -63,6 +67,7 @@ Technical Skills: ⭐⭐⭐⭐⭐
 Communication: ⭐⭐⭐⭐
 Problem Solving: ⭐⭐⭐⭐⭐
 Overall Score: 88/100
+
 
 Feedback:
 
